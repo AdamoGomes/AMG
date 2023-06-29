@@ -36,10 +36,6 @@ header > p{
     transition: all 1s ease;
 
 }
-#resultado:hover{
-    width: 355px;
-    height: 405px;
-}
 footer{
     font-family: sans-serif;
     text-align: center;
